@@ -15,11 +15,15 @@ Answer:(with practice comes wisdom)
 Gold rules:
 1. use 'help' command
 2. write   'clear ; close all; clc'    every time at the beginning of a .m file to initialize.
+3. faster! faster! faster!
+      3.1 replace  loop with vectorization  so that the  program becomes neater and faster.
+      3.2 preallocating any vectors or arrays in which output results are stored 
+
 
 
 Some resource:
 for getstart:
-1.  free interaction tutotrial on official site : MATLAB onramp
+1.  free interactive tutotrial on official site : MATLAB onramp
        
                         which will show you 
                                   1. how to use it as a fundamental calculator.
