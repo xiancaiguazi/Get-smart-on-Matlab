@@ -10,6 +10,8 @@ Questions need to answer:
 
 Answer:(with practice comes wisdom)
 1. A kind of program language; 
+2. Learn by teaching and sharing, I guess.
+3. upload my progress to github!!!
 
 
 Gold rules:
