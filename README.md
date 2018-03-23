@@ -13,11 +13,11 @@ Answer:(with practice comes wisdom)
 
 
 Gold rules:
-1. use 'help' command
+1. use 'help' or 'doc' command
 2. write   'clear ; close all; clc'    every time at the beginning of a .m file to initialize.
 3. faster! faster! faster!
       3.1 replace  loop with vectorization  so that the  program becomes neater and faster.
-      3.2 preallocating any vectors or arrays in which output results are stored 
+      3.2 preallocating any vectors or arrays in which output results are stored ,such as 'A = zeros(10);'
 
 
 
@@ -32,4 +32,4 @@ for getstart:
                                   4. select data in a certain matrix
                                   5. how to get help from doc
                                   6. and so on, go to have a try.
-2. offical  getstart.pdf, provide many examples for basic use.            
+2. offical  getstart.pdf, provide many examples for basic use.    http://uk.mathworks.com/help/pdf_doc/matlab/getstart.pdf        
