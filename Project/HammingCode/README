@@ -1,0 +1,6 @@
+This project intends to accomplish error detection and correction,using Hamming code.
+
+Files provided:
+1. A project specification.
+2. Basic knowledge you need to understand how Hamming code works.
+3. My solution to this problem,which works well whether how long the binary code is.
