@@ -1,0 +1,6 @@
+This file include two examples about numerical calculation problem in heat transfer course.
+First one: one dimentional plate,using explicit formula.
+Second one: two dimentional fin, explicit formula.
+
+Both support changing parameters and displaying images to understand the influence of these parameters on stability and so on.
+
